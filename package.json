@@ -1,0 +1,26 @@
+{
+  "name": "medium-graphql",
+  "version": "1.0.0",
+  "description": "GraphQL Tutorial from https://medium.com/@thisbejim/getting-started-with-redux-and-graphql-8384b3b25c56#.68ehl12mt",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesjamb/medium-graphql.git"
+  },
+  "author": "Charles Jambon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesjamb/medium-graphql/issues"
+  },
+  "homepage": "https://github.com/charlesjamb/medium-graphql#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-graphql": "^0.6.1",
+    "graphql": "^0.8.1",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
